@@ -46,4 +46,134 @@
 
 
 
-/*
+/*action style*/
+ 
+.ab-boss{
+   display: flex;
+   justify-content:space-around;
+   align-items: center;
+   margin: 100px 0px;
+
+}
+
+.action-p{
+  color: #252432;
+  font-weight: 100;
+}
+
+.action-img{
+  border-radius: 10%;
+  
+}
+
+
+/* product style */
+
+.pr-boss{
+display: flex;
+justify-content: center;
+margin-bottom: 70px;
+
+}
+.product{
+  background-color: #f6f6ff;
+  height: 260px;
+  width:1080px;
+  border-radius: 20px;
+  text-align: center;
+  padding:24px 20px;
+  
+}
+
+.p-title{
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.box-container{
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+}
+
+.my-box{
+  display: flex;
+  flex-direction: column;
+  text-align:center;
+}
+
+.my-box h2{
+  font-size: 68px;
+  color: #4e47ff;
+  margin-top: 0;
+}
+.my-box p{
+  font-size: 16px;
+ color:#252432;
+ font-weight:100;
+ margin-top: 0;
+}
+
+
+/* review style */
+
+.rev{
+  height: 800px;
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:20px;
+}
+
+.div.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.rev-container{
+  height: 200px;
+  width:250px;
+  background-color: #f6f6ff;
+   margin-bottom: 30px;
+   border-radius: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
